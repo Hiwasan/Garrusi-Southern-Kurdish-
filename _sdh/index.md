@@ -425,7 +425,7 @@ Internal structural coherence
 # Contact & License
 
 - **Lead Maintainer**: Hiwa Asadpour — overall coordination, main annotation, and releases
-- **Contributors**: Luigi Talamo, Annemarie Verkerk, Helena Vaz
+- **Contributors**: ; Zarei, Masoumeh; Verkerk, Annemarie; Talamo, Luigi; Vaz, Helena
 - **Email**: [asadpourhiwa@gmail.com]
 - **License**: [CC-BY 4.0]
 
@@ -435,7 +435,7 @@ You are free to share and adapt this work with proper attribution.
 
 # Acknowledgments
 
-We thank the contributors and native speakers who assisted in the creation of this dataset. We also acknowledge Masoumeh Zarei for her help during the early stages, before the main work began. This dataset supports the documentation and computational modeling of understudied languages.
+We thank the contributors and native speakers who assisted in the creation of this dataset. This dataset supports the documentation and computational modeling of understudied languages.
 
 ---
 
@@ -465,7 +465,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Talamo, Luigi; Asadpour, Hiwa; Verkerk, Annemarie; Vaz, Helena
+Contributors: Asadpour, Hiwa; Zarei, Masoumeh; Verkerk, Annemarie; Talamo, Luigi; Vaz, Helena
 Contributing: here
 Contact: luigi.talamo@uni-saarland.de
 ===============================================================================
